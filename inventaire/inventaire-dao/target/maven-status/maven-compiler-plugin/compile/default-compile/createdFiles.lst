@@ -1,0 +1,13 @@
+fr/uni/institute/library/dao/CategoryDao.class
+fr/uni/institute/library/dao/CategoryTitleRelationDao.class
+fr/uni/institute/library/dao/DaoException.class
+fr/uni/institute/library/dao/AudioRecordDao.class
+fr/uni/institute/library/dao/jdbc/BookDaoJdbc.class
+fr/uni/institute/library/dao/TitleDao.class
+fr/uni/institute/library/dao/jdbc/TitleDaoJdbc.class
+org/inventaire/dao/App.class
+fr/uni/institute/library/dao/jdbc/InventoryDaoJdbc.class
+fr/uni/institute/library/dao/BookDao.class
+fr/uni/institute/library/dao/jdbc/CategoryDaoJdbc.class
+fr/uni/institute/library/dao/jdbc/CategoryTitleRelationDaoJdbc.class
+fr/uni/institute/library/dao/jdbc/AudioRecordDaoJdbc.class

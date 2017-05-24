@@ -1,0 +1,7 @@
+fr/mediatheque/inventaire/services/App.class
+fr/uni/institute/library/service/impl/InventoryManagementServiceImpl.class
+fr/uni/institute/library/service/ServiceException.class
+fr/uni/institute/library/service/impl/TitleAdd.class
+fr/uni/institute/library/service/InventoryManagementService.class
+fr/uni/institute/library/service/impl/TitleRemove.class
+fr/uni/institute/library/service/impl/TitleModify.class

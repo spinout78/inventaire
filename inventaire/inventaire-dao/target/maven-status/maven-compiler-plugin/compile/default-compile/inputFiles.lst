@@ -1,0 +1,13 @@
+/home/usere/Téléchargements/sandBox/inventaire/inventaire/inventaire-dao/src/main/java/fr/uni/institute/library/dao/jdbc/InventoryDaoJdbc.java
+/home/usere/Téléchargements/sandBox/inventaire/inventaire/inventaire-dao/src/main/java/fr/uni/institute/library/dao/jdbc/CategoryDaoJdbc.java
+/home/usere/Téléchargements/sandBox/inventaire/inventaire/inventaire-dao/src/main/java/fr/uni/institute/library/dao/CategoryTitleRelationDao.java
+/home/usere/Téléchargements/sandBox/inventaire/inventaire/inventaire-dao/src/main/java/fr/uni/institute/library/dao/CategoryDao.java
+/home/usere/Téléchargements/sandBox/inventaire/inventaire/inventaire-dao/src/main/java/fr/uni/institute/library/dao/jdbc/CategoryTitleRelationDaoJdbc.java
+/home/usere/Téléchargements/sandBox/inventaire/inventaire/inventaire-dao/src/main/java/fr/uni/institute/library/dao/jdbc/AudioRecordDaoJdbc.java
+/home/usere/Téléchargements/sandBox/inventaire/inventaire/inventaire-dao/src/main/java/fr/uni/institute/library/dao/AudioRecordDao.java
+/home/usere/Téléchargements/sandBox/inventaire/inventaire/inventaire-dao/src/main/java/fr/uni/institute/library/dao/jdbc/BookDaoJdbc.java
+/home/usere/Téléchargements/sandBox/inventaire/inventaire/inventaire-dao/src/main/java/fr/uni/institute/library/dao/TitleDao.java
+/home/usere/Téléchargements/sandBox/inventaire/inventaire/inventaire-dao/src/main/java/fr/uni/institute/library/dao/DaoException.java
+/home/usere/Téléchargements/sandBox/inventaire/inventaire/inventaire-dao/src/main/java/fr/uni/institute/library/dao/jdbc/TitleDaoJdbc.java
+/home/usere/Téléchargements/sandBox/inventaire/inventaire/inventaire-dao/src/main/java/fr/uni/institute/library/dao/BookDao.java
+/home/usere/Téléchargements/sandBox/inventaire/inventaire/inventaire-dao/src/main/java/org/inventaire/dao/App.java
